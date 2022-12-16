@@ -1,0 +1,17 @@
+Напишите программу которая переписывает
+текст так чтобы каждое слово начиналось
+с заглавной буквы.
+
+Ввод
+zinedine zidane
+
+Вывод
+Zinedine Zidane
+
+
+
+Ввод
+real madrid football club
+
+Вывод
+Real Madrid Football Club

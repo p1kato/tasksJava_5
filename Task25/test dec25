@@ -1,0 +1,17 @@
+Программа должна принимать текст и показывать
+на экране только те слова которые находятся
+между символами < и >.
+
+Ввод
+Hello, this is < BITLAB > academy
+
+Вывод
+BITLAB
+
+
+
+Ввод
+Strings in < Java > are < Objects > that are backed < internally > by a < char > array
+
+Вывод
+Java Objects internally сhar

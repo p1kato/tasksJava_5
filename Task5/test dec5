@@ -1,0 +1,16 @@
+Программа запрашивает два слова и сравнивает
+их без учета регистров (заглавные и строчные буквы).
+Выведите на экран "THEY ARE EQUAL" если оны равны,
+и "THEY ARE NOT EQUAL" в противном случае.
+
+Ввод
+Programming
+PROGRAMMING
+Вывод
+THEY ARE EQUAL
+
+Ввод
+JAVA
+COURSE
+Вывод
+THEY ARE NOT EQUAL
